@@ -48,13 +48,13 @@ To view or edit this project, follow these steps:
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/your-username/burger-bar-cafe.git
+   git clone https://github.com/worachat-dev/Burger-Bar-Restaurant-Website-Projects-FED.git
    ```
 
 2. **Navigate to the Project Directory**
 
    ```bash
-   cd burger-bar-cafe
+   cd Burger-Bar-Restaurant-Website-Projects-FED
    ```
 
 3. **Open `index.html` in a Browser**
@@ -88,7 +88,7 @@ This project was inspired by and includes code from the [Responsive Restaurant/F
 
 ## Screenshots
 
-![The Python Standard Library](./image.png)
+![Burger Bar Cafe website](./image.png)
 
 ## Contact
 
