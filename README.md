@@ -86,13 +86,21 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 This project was inspired by and includes code from the [Responsive Restaurant/Food Website Design Using HTML CSS And JavaScript - Dark/Light Mode](https://github.com/carpoolvenom/Responsive-Restaurant-Food-Website-Design-Using-HTML-CSS-And-JavaScript---Dark-Light-Mode.git) by CarpoolVenom. Special thanks to CarpoolVenom for their work which served as a foundational reference for this design.
 
+## Screenshots
+
+![The Python Standard Library](./image.png)
+
 ## Contact
 
+For any inquiries or issues, please contact me!
+
+## Author
+
+- **Worachat W, Dev.** - *Data Science, Engineering & Full Stack Dev. 2024*  
+  [LinkedIn](https://www.linkedin.com/in/brainwaves-your-ai-playground-82155961/) | [GitHub](https://github.com/worachat-dev) | [Facebook](https://web.facebook.com/NutriCious.Thailand)
 
 
 ---
 Thank you for visiting Burger Bar Cafe's website repository!
 
-### Key Additions:
-- **Acknowledgements Section:** This credits the original project by CarpoolVenom and provides a link to the source repository.
 
