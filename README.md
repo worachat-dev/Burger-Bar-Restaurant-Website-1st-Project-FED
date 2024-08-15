@@ -1,4 +1,4 @@
-# Burger Bar Cafe
+# Burger Bar Cafe : 1st Project
 
 Welcome to the Burger Bar Cafe website! This repository contains the source code for the website of Burger Bar Cafe, showcasing our menu, services, and more.
 
