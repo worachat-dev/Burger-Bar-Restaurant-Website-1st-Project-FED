@@ -48,13 +48,13 @@ To view or edit this project, follow these steps:
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/worachat-dev/Burger-Bar-Restaurant-Website-Projects01-FED.git
+   git clone https://github.com/worachat-dev/Burger-Bar-Restaurant-Website-1st-Project-FED.git
    ```
 
 2. **Navigate to the Project Directory**
 
    ```bash
-   cd Burger-Bar-Restaurant-Website-Projects01-FED
+   cd Burger-Bar-Restaurant-Website-1st-Project-FED
    ```
 
 3. **Open `index.html` in a Browser**
